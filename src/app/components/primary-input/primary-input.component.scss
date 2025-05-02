@@ -4,6 +4,10 @@
     color: $text-color;
     font-size: 16px;
     text-align: start;
+    
+    label {
+        margin-bottom: 10px;
+    }
 
     .input-content {
         width: 100%;
