@@ -1,11 +1,17 @@
 # Página de Login
 
 📌 Sobre
-Este projeto é um aplicativo simples de login e inscrição, desenvolvido com Angular (TypeScript) e integração com backend. O objetivo é demonstrar como criar um sistema de autenticação completo
+Este projeto é um aplicativo simples de login e inscrição, desenvolvido com Angular (TypeScript) e integração com backend. O objetivo é demonstrar um sistema de autenticação completo.
 
-## Development server
+🚀 Começando
+✅ Pré-requisitos
+Certifique-se de ter instalado em sua máquina:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Node.js
+
+Git
+
+Angular CLI
 
 ## Code scaffolding
 
