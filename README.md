@@ -1,6 +1,7 @@
-# LoginPage
+# Página de Login
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.16.
+📌 Sobre
+Este projeto é um aplicativo simples de login e inscrição, desenvolvido com Angular (TypeScript) e integração com backend. O objetivo é demonstrar como criar um sistema de autenticação completo
 
 ## Development server
 
