@@ -14,17 +14,27 @@ Este projeto é um aplicativo simples de login e inscrição, desenvolvido com A
 
 ## 🔁 Clonando o Projeto
 
-` git clone https://github.com/vanessa-vasconcelos/login-page.git ´
+``` git clone https://github.com/vanessa-vasconcelos/login-page.git ```
 
-## Build
+## ▶️ Executando o Projeto
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+```
+cd nome-projeto
+npm install
+npm start
+```
 
-## Running unit tests
+## 📍 Rotas da Aplicação
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+| Rota    | Descrição                                                   |
+|---------|-------------------------------------------------------------|
+| /signup | Página para inscrição                                       |
+| /login  | Página para login                                           |
+| /user   | Página protegida que somente usuários logados podem acessar |
 
-## Running end-to-end tests
+
+
+## 📫 Backend
 
 Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
