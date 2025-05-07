@@ -1,17 +1,16 @@
 # Página de Login
 
 📌 Sobre
+
 Este projeto é um aplicativo simples de login e inscrição, desenvolvido com Angular (TypeScript) e integração com backend. O objetivo é demonstrar um sistema de autenticação completo.
 
 🚀 Começando
-✅ Pré-requisitos
-Certifique-se de ter instalado em sua máquina:
 
-Node.js
+✅ Pré-requisitos - Certifique-se de ter instalado em sua máquina:
 
-Git
-
-Angular CLI
+* Node.js
+* Git
+* Angular CLI
 
 ## Code scaffolding
 
