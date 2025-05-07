@@ -1,20 +1,20 @@
 # Página de Login
 
-📌 Sobre
+## 📌 Sobre
 
 Este projeto é um aplicativo simples de login e inscrição, desenvolvido com Angular (TypeScript) e integração com backend. O objetivo é demonstrar um sistema de autenticação completo.
 
-🚀 Começando
+## 🚀 Começando
 
-✅ Pré-requisitos - Certifique-se de ter instalado em sua máquina:
+## ✅ Pré-requisitos - Certifique-se de ter instalado em sua máquina:
 
 * Node.js
 * Git
 * Angular CLI
 
-## Code scaffolding
+## 🔁 Clonando o Projeto
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+` git clone https://github.com/vanessa-vasconcelos/login-page.git ´
 
 ## Build
 
